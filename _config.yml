@@ -2,7 +2,7 @@
 title: Want招聘
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  找工作了
+  大学生找工作的智能平台
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://wantni.cn" # the base hostname & protocol for your site
 twitter_username: jekyllrb
